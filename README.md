@@ -9,6 +9,7 @@
 + Lodingen Waddenzee(bodemdiepte)
 + [Walter waddenmonitor, verzameling geodata en kaartmateriaal](http://www.walterwaddenmonitor.org/tools/kaartenportaal/)
 + [Fries sociaal plan bureau, o.a. sociaal economische gegevens](https://www.friessociaalplanbureau.nl/cijfers)
++ [Waddenviewer Deltares](http://al-ng033.xtr.deltares.nl/waddenviewer/)
 
 
 ## Andere relevante achtergrond informatie
