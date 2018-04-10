@@ -7,13 +7,12 @@
 + [CBS gegevens over toerisme](https://www.cbs.nl/nl-nl/nieuws/2016/31/1-3-miljoen-toeristen-op-vakantie-naar-de-wadden)
 + [CBS gegevens over (startende) ondernemingen](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83148NED/table?ts=1513256402841)
 + Lodingen Waddenzee(bodemdiepte)
-provincies-willen-grote-projecten-in-waddengebied/)
 + [Walter waddenmonitor, verzameling geodata en kaartmateriaal](http://www.walterwaddenmonitor.org/tools/kaartenportaal/)
 + [Fries sociaal plan bureau, o.a. sociaal economische gegevens](https://www.friessociaalplanbureau.nl/cijfers)
 
 
 ## Andere relevante achtergrond informatie
-+ [Meerjarenprogramma investeringen Waddengebied](http://www.investeringskaderwaddengebied.nl/2018/03/06/
++ [Meerjarenprogramma investeringen Waddengebied](http://www.investeringskaderwaddengebied.nl/2018/03/06/provincies-willen-grote-projecten-in-waddengebied/)
 + [Texels ondernemers platform](https://www.top-texel.nl/nieuwe-leden)
 + [Programma Naar een Rijke Waddenzee](https://rijkewaddenzee.nl/rapport/)
 + [Basismonitoring Wadden](http://www.basismonitoringwadden.nl/)
